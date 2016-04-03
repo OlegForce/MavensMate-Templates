@@ -1,9 +1,9 @@
 /*
-* @author : sfdcdev, Tamarack Consulting, Inc.
-* @date : 11/25/2015
+* @author : sfdcdev, {{ company_name }}, Inc.
+* @date : 
 * @description: 
 *
-* © Copyright 2003 - 2015 Tamarack Consulting, Inc.  All Rights Reserved.
+* © Copyright 2003 - 2016 {{ company_name }}, Inc.  All Rights Reserved.
 * 
 */
 

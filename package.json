@@ -10,6 +10,11 @@
                     "name":"api_name",
                     "description":"Apex Class API Name",
                     "default":"MyApexClass"
+                },
+                {  
+                    "name":"company_name",
+                    "description":"company name",
+                    "default":"olegforce"
                 }
             ]
         },
